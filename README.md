@@ -1,10 +1,9 @@
-### Hi there 👋
+### Olá, me chamo Lucas Guedes! 👋
+
+<a href="https://www.linkedin.com/in/lucas-guedes-0b58a61b0/?originalSubdomain=br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/lucasg_guedess" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <!--
-**LucasGuedes-s/LucasGuedes-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
