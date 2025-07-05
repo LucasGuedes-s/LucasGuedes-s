@@ -1,16 +1,39 @@
-### Olá, me chamo <strong>Lucas Guedes!</strong> 👋
+<h1 align="center">Olá, me chamo <strong>Lucas Guedes</strong> 👋</h1>
 
-> Sou estudante de Tecnologia em sistemas para internet no IFRN, durante minha jornada academica tenho me dedicado a produzir projetos voltados ao mercado de trabalho
+<p align="center">
+  🎓 Estudante de <strong>Tecnologia em Sistemas para Internet</strong> no IFRN<br>
+  💻 Desenvolvedor Full Stack em formação | Foco em <strong>Web Development</strong><br>
+  🚀 Sempre em busca de novos aprendizados e desafios
+</p>
 
-🔭Atualmente estou em constante desenvolvimento de minhas habilidades e crescimento profissional. Confio em minha habilidade de criar ideias interessantes e fazer um bom trabalho no desenvolvimento web. Tenho como objetivo crescer profissionalmente e cooperar com a empresa através dos meus conhecimentos na área de front-end e como back-end.
-🚀 Minhas Skills
+---
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+### 🧠 Sobre mim
 
-⭐ Minhas Redes Sociais
-<a href="https://instagram.com/lucasg_guedess" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-guedes-0b58a61b0/?originalSubdomain=br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Sou apaixonado por tecnologia e estou sempre em busca de evoluir profissionalmente. Durante minha trajetória acadêmica, tenho me dedicado a construir projetos que atendam às demandas reais do mercado.  
+Tenho facilidade em propor ideias criativas e colaborar em equipe para transformar essas ideias em soluções eficientes. Atualmente, busco oportunidades onde eu possa crescer como desenvolvedor e contribuir com meus conhecimentos em **front-end** e **back-end**.
+
+---
+
+### 🚀 Tecnologias que uso no dia a dia
+
+<div style="display: flex; gap: 10px;">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS3"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
+</div>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/in/lucas-guedes-0b58a61b0" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/lucasg_guedess" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
