@@ -16,13 +16,20 @@ Tenho facilidade em propor ideias criativas e colaborar em equipe para transform
 
 ### 🚀 Tecnologias que uso no dia a dia
 
-<p>
-  <img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"/>
-  <img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js"/>
-  <img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5"/>
-  <img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS3"/>
-  <img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
-</p>
+#### 💡 Front-end
+- ⚙️ HTML5, CSS3, JavaScript, TypeScript  
+- 🖼️ Vue.js, React, Bootstrap  
+- 📱 Expo / React Native
+
+#### 🛠️ Back-end
+- 🧠 Node.js, Express.js  
+- 🔗 Prisma ORM  
+- 🗃️ PostgreSQL, MySQL
+
+#### 🐳 Outros conhecimentos
+- 🌐 API REST  
+- ☁️ Cloudflare R2  
+- 🔧 Git e GitHub  
 
 ---
 
